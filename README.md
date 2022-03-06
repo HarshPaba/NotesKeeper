@@ -1,5 +1,5 @@
 
-# To visit website click on the link: https://app1-nk.herokuapp.com/
+To visit website click on the link: https://app1-nk.herokuapp.com/
 
 # Getting Started with Create React App
 
